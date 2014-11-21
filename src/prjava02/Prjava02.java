@@ -31,6 +31,7 @@ public class Prjava02 {
             System.out.println("Versió OS: "+System.getProperty("os.version"));
             System.out.println("Creació d'una branca del projecte prjava02");
             System.out.println("Afegint més codi a la branca00 del projecte prjava02");
+			System.out.println("Conflicte típic: Codi diferent a una mateixa línia");
         }
         catch (IOException e){
             
